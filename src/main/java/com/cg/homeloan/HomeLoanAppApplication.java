@@ -8,6 +8,8 @@ public class HomeLoanAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HomeLoanAppApplication.class, args);
+		
+		
 	}
 
 }
